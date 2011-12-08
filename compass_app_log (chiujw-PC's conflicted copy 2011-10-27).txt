@@ -1,0 +1,79 @@
+2011-10-17 15:26:39     error sass/screen.scss (Line 7: Invalid CSS after "..."compass/css3";": expected selector or at-rule, was "`")
+2011-10-17 15:26:39 overwrite stylesheets/screen.css 
+2011-10-17 15:27:38 overwrite stylesheets/screen.css 
+2011-10-17 15:28:27     error sass/screen.scss (Line 7: Invalid CSS after "..."compass/css3";": expected selector or at-rule, was "'")
+2011-10-17 15:28:27 overwrite stylesheets/screen.css 
+2011-10-17 15:28:39 overwrite stylesheets/screen.css 
+2011-10-17 15:29:30 overwrite stylesheets/screen.css 
+2011-10-17 15:30:17 overwrite stylesheets/screen.css 
+2011-10-19 10:48:51 overwrite stylesheets/screen.css 
+2011-10-24 14:51:05 overwrite stylesheets/screen.css 
+2011-10-24 14:51:47 overwrite stylesheets/screen.css 
+2011-10-24 14:51:57 overwrite stylesheets/screen.css 
+2011-10-25 15:47:38 overwrite stylesheets/screen.css 
+2011-10-25 15:54:33 overwrite stylesheets/screen.css 
+2011-10-26 15:16:42 overwrite stylesheets/screen.css 
+2011-10-26 15:16:45 overwrite stylesheets/screen.css 
+2011-10-26 15:17:10 overwrite stylesheets/screen.css 
+2011-10-26 15:23:30 overwrite stylesheets/screen.css 
+2011-10-26 15:24:04 overwrite stylesheets/screen.css 
+2011-10-26 15:24:31 overwrite stylesheets/screen.css 
+2011-10-26 15:25:21 identical stylesheets/screen.css 
+2011-10-26 15:26:10 identical stylesheets/screen.css 
+2011-10-26 15:27:06 overwrite stylesheets/screen.css 
+2011-10-26 15:28:31 overwrite stylesheets/screen.css 
+2011-10-26 15:29:33 overwrite stylesheets/screen.css 
+2011-10-26 15:34:16 overwrite stylesheets/screen.css 
+2011-10-26 15:35:48 overwrite stylesheets/screen.css 
+2011-10-26 15:36:18 overwrite stylesheets/screen.css 
+2011-10-26 15:36:37 overwrite stylesheets/screen.css 
+2011-10-26 15:37:39 overwrite stylesheets/screen.css 
+2011-10-26 15:37:51 overwrite stylesheets/screen.css 
+2011-10-26 15:38:10 overwrite stylesheets/screen.css 
+2011-10-26 16:08:44 overwrite stylesheets/screen.css 
+2011-10-26 16:23:47 overwrite stylesheets/screen.css 
+2011-10-26 16:27:58 overwrite stylesheets/screen.css 
+2011-10-26 16:28:14 overwrite stylesheets/screen.css 
+2011-10-26 16:28:46 overwrite stylesheets/screen.css 
+2011-10-26 16:34:28 overwrite stylesheets/screen.css 
+2011-10-26 16:36:35     error sass/screen.scss (Line 18: Invalid CSS after "...e border-radius": expected "}", was ":;")
+2011-10-26 16:36:35 overwrite stylesheets/screen.css 
+2011-10-26 16:37:49     error sass/screen.scss (Line 19: Invalid CSS after "...e border-radius": expected "}", was ": 20px 20px;")
+2011-10-26 16:37:49 overwrite stylesheets/screen.css 
+2011-10-26 16:38:16     error sass/screen.scss (Line 18: Invalid CSS after "...e border-radius": expected "}", was ": 20px 20px;")
+2011-10-26 16:38:16 overwrite stylesheets/screen.css 
+2011-10-26 16:38:49 overwrite stylesheets/screen.css 
+2011-10-26 16:39:07 identical stylesheets/screen.css 
+2011-10-26 16:40:28 overwrite stylesheets/screen.css 
+2011-10-26 16:40:47 overwrite stylesheets/screen.css 
+2011-10-26 16:50:48 overwrite stylesheets/screen.css 
+2011-10-26 16:51:28 overwrite stylesheets/screen.css 
+2011-10-26 16:51:45 overwrite stylesheets/screen.css 
+2011-10-26 16:52:22 overwrite stylesheets/screen.css 
+2011-10-26 16:53:28 overwrite stylesheets/screen.css 
+2011-10-26 16:54:00 overwrite stylesheets/screen.css 
+2011-10-26 17:05:55 overwrite stylesheets/screen.css 
+2011-10-26 17:06:23 overwrite stylesheets/screen.css 
+2011-10-26 17:08:37 overwrite stylesheets/screen.css 
+2011-10-26 17:14:31 overwrite stylesheets/screen.css 
+2011-10-26 17:15:18 overwrite stylesheets/screen.css 
+2011-10-26 17:19:01 overwrite stylesheets/screen.css 
+2011-10-26 17:19:16 overwrite stylesheets/screen.css 
+2011-10-26 17:19:57 overwrite stylesheets/screen.css 
+2011-10-26 17:20:37 overwrite stylesheets/screen.css 
+2011-10-26 17:20:58 overwrite stylesheets/screen.css 
+2011-10-26 17:31:55 overwrite stylesheets/screen.css 
+2011-10-26 17:32:15 overwrite stylesheets/screen.css 
+2011-10-26 17:32:51 overwrite stylesheets/screen.css 
+2011-10-26 17:33:16 overwrite stylesheets/screen.css 
+2011-10-26 17:35:40     error sass/screen.scss (Line 23: Color value 256 must be between 0 and 255 inclusive for `rgba')
+2011-10-26 17:35:40 overwrite stylesheets/screen.css 
+2011-10-26 17:35:44     error sass/screen.scss (Line 23: Color value 256 must be between 0 and 255 inclusive for `rgba')
+2011-10-26 17:35:44 identical stylesheets/screen.css 
+2011-10-26 17:49:41     error sass/screen.scss (Line 23: Color value 256 must be between 0 and 255 inclusive for `rgba')
+2011-10-26 17:49:41 identical stylesheets/screen.css 
+2011-10-26 17:49:59     error sass/screen.scss (Line 23: Color value 256 must be between 0 and 255 inclusive for `rgba')
+2011-10-26 17:49:59 identical stylesheets/screen.css 
+2011-10-26 17:50:39 overwrite stylesheets/screen.css 
+2011-10-26 17:51:06 overwrite stylesheets/screen.css 
+2011-10-26 17:51:16 overwrite stylesheets/screen.css 

@@ -1,0 +1,169 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 17, C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* line 20, C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+body {
+  line-height: 1;
+}
+
+/* line 22, C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 24, C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 26, C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 28, C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 101, C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 30, C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 114, C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+/* incase an inverted custom gradient isn't specified */
+/* line 177, C:/Users/chiujw/.compass/extensions/fancy-buttons/stylesheets/_fancy-buttons.sass */
+.fancy-button-reset-base-class {
+  font-family: "Lucida Grande", Lucida, Arial, sans-serif;
+  background: url('/images/button_bg.png?1319702666') repeat-x bottom left;
+  margin: 0;
+  width: auto;
+  overflow: visible;
+  display: inline-block;
+  cursor: pointer;
+  text-decoration: none;
+  border-style: solid;
+  font-weight: bold;
+}
+/* line 165, C:/Users/chiujw/.compass/extensions/fancy-buttons/stylesheets/_fancy-buttons.sass */
+.fancy-button-reset-base-class::-moz-focus-inner {
+  border: none;
+  padding: 0;
+}
+/* line 168, C:/Users/chiujw/.compass/extensions/fancy-buttons/stylesheets/_fancy-buttons.sass */
+.fancy-button-reset-base-class:focus {
+  outline: none;
+}
+
+/* line 10, ../sass/screen.scss */
+.hide {
+  display: none;
+}
+
+/* line 14, ../sass/screen.scss */
+body {
+  background: #2f2f2f;
+  font-family: 'Trebuchet MS', serif;
+  color: #c6c6c6;
+}
+/* line 22, ../sass/screen.scss */
+body #container {
+  width: 60%;
+  max-width: 1024px;
+  margin: 50px auto 0px;
+}
+/* line 31, ../sass/screen.scss */
+body #container header {
+  padding: 10px 10px;
+  font-weight: bold;
+  font-size: 24px;
+  color: #84BCDE;
+}
+/* line 36, ../sass/screen.scss */
+body #container header #add_tab {
+  margin-left: 15px;
+}
+/* line 41, ../sass/screen.scss */
+body #container button:first-child {
+  margin: 0px 0px 8px 0px;
+}
+/* line 45, ../sass/screen.scss */
+body #container div#list div {
+  padding: 0px 0px 8px;
+}
+/* line 48, ../sass/screen.scss */
+body #container div#list div input {
+  margin: 0px 0px 0px 12px;
+}
+/* line 51, ../sass/screen.scss */
+body #container div#list div span {
+  padding: 0px 5px;
+}
+
+/* line 59, ../sass/screen.scss */
+#dialog label, #dialog input {
+  display: block;
+}
+
+/* line 60, ../sass/screen.scss */
+#dialog label {
+  margin-top: 0.5em;
+}
+
+/* line 61, ../sass/screen.scss */
+#dialog input, #dialog textarea {
+  width: 95%;
+}
+
+/* line 62, ../sass/screen.scss */
+#tabs {
+  margin-top: 0.3em;
+}
+
+/* line 63, ../sass/screen.scss */
+#tabs li .ui-icon-close {
+  float: left;
+  margin: 0.4em 0.2em 0 0;
+  cursor: pointer;
+}
+
+/* line 64, ../sass/screen.scss */
+#add_tab {
+  cursor: pointer;
+}

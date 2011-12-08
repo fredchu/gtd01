@@ -1,0 +1,257 @@
+2011-10-17 15:26:39     error sass/screen.scss (Line 7: Invalid CSS after "..."compass/css3";": expected selector or at-rule, was "`")
+2011-10-17 15:26:39 overwrite stylesheets/screen.css 
+2011-10-17 15:27:38 overwrite stylesheets/screen.css 
+2011-10-17 15:28:27     error sass/screen.scss (Line 7: Invalid CSS after "..."compass/css3";": expected selector or at-rule, was "'")
+2011-10-17 15:28:27 overwrite stylesheets/screen.css 
+2011-10-17 15:28:39 overwrite stylesheets/screen.css 
+2011-10-17 15:29:30 overwrite stylesheets/screen.css 
+2011-10-17 15:30:17 overwrite stylesheets/screen.css 
+2011-10-19 10:48:51 overwrite stylesheets/screen.css 
+2011-10-24 14:51:05 overwrite stylesheets/screen.css 
+2011-10-24 14:51:47 overwrite stylesheets/screen.css 
+2011-10-24 14:51:57 overwrite stylesheets/screen.css 
+2011-10-25 15:47:38 overwrite stylesheets/screen.css 
+2011-10-25 15:54:33 overwrite stylesheets/screen.css 
+2011-10-26 22:26:34 overwrite stylesheets/screen.css 
+2011-10-26 22:26:42 overwrite stylesheets/screen.css 
+2011-10-26 22:26:56 overwrite stylesheets/screen.css 
+2011-10-26 22:27:00 identical stylesheets/screen.css 
+2011-10-26 22:45:24 overwrite stylesheets/screen.css 
+2011-10-26 22:45:28 identical stylesheets/screen.css 
+2011-10-26 22:45:31 identical stylesheets/screen.css 
+2011-10-26 22:45:40 overwrite stylesheets/screen.css 
+2011-10-26 22:46:01 identical stylesheets/screen.css 
+2011-10-26 22:46:14 overwrite stylesheets/screen.css 
+2011-10-26 22:46:25 overwrite stylesheets/screen.css 
+2011-10-26 22:47:13 identical stylesheets/screen.css 
+2011-10-26 22:48:21 identical stylesheets/screen.css 
+2011-10-26 22:48:28 overwrite stylesheets/screen.css 
+2011-10-26 22:48:35 overwrite stylesheets/screen.css 
+2011-10-26 22:50:35 overwrite stylesheets/screen.css 
+2011-10-27 00:25:35 overwrite stylesheets/screen.css 
+2011-10-27 00:27:20 overwrite stylesheets/screen.css 
+2011-10-27 00:40:58 overwrite stylesheets/screen.css 
+2011-10-27 00:44:53 overwrite stylesheets/screen.css 
+2011-10-27 02:27:57 overwrite stylesheets/screen.css 
+2011-10-27 02:28:08 identical stylesheets/screen.css 
+2011-10-27 02:28:11 identical stylesheets/screen.css 
+2011-10-27 02:28:26 overwrite stylesheets/screen.css 
+2011-10-27 02:28:29 identical stylesheets/screen.css 
+2011-10-27 02:28:30 identical stylesheets/screen.css 
+2011-10-27 02:29:21 overwrite stylesheets/screen.css 
+2011-10-27 02:29:26 overwrite stylesheets/screen.css 
+2011-10-27 02:30:58 overwrite stylesheets/screen.css 
+2011-10-27 02:31:00 overwrite stylesheets/screen.css 
+2011-10-27 02:31:36 overwrite stylesheets/screen.css 
+2011-10-27 02:31:45 overwrite stylesheets/screen.css 
+2011-10-27 02:31:48 overwrite stylesheets/screen.css 
+2011-10-27 02:31:51 overwrite stylesheets/screen.css 
+2011-10-27 02:32:05 overwrite stylesheets/screen.css 
+2011-10-27 02:32:18 overwrite stylesheets/screen.css 
+2011-10-27 02:32:27 identical stylesheets/screen.css 
+2011-10-27 02:32:30 overwrite stylesheets/screen.css 
+2011-10-27 02:32:36 overwrite stylesheets/screen.css 
+2011-10-27 02:32:53 overwrite stylesheets/screen.css 
+2011-10-27 02:32:54 identical stylesheets/screen.css 
+2011-10-27 09:18:47 overwrite stylesheets/screen.css 
+2011-10-27 09:18:55 overwrite stylesheets/screen.css 
+2011-10-27 09:20:50 overwrite stylesheets/screen.css 
+2011-10-27 09:21:23 overwrite stylesheets/screen.css 
+2011-10-27 09:29:06 overwrite stylesheets/screen.css 
+2011-10-27 09:29:18 overwrite stylesheets/screen.css 
+2011-10-27 09:29:24 overwrite stylesheets/screen.css 
+2011-10-27 09:30:03 overwrite stylesheets/screen.css 
+2011-10-27 09:30:11 overwrite stylesheets/screen.css 
+2011-10-27 09:30:17 overwrite stylesheets/screen.css 
+2011-10-27 09:30:48 overwrite stylesheets/screen.css 
+2011-10-27 09:31:12 overwrite stylesheets/screen.css 
+2011-10-27 09:31:45 overwrite stylesheets/screen.css 
+2011-10-27 09:31:51 overwrite stylesheets/screen.css 
+2011-10-27 09:31:54 overwrite stylesheets/screen.css 
+2011-10-27 15:26:26     error sass/screen.scss (Line 9: Invalid CSS after "... "fancy-button"": expected selector or at-rule, was ".hide {")
+2011-10-27 15:26:26 overwrite stylesheets/screen.css 
+2011-10-27 15:27:02     error sass/screen.scss (Line 10: Invalid CSS after "...s/fancy-button"": expected selector or at-rule, was ".hide {	")
+2011-10-27 15:27:02 overwrite stylesheets/screen.css 
+2011-10-27 15:27:55     error sass/screen.scss (Line 8: File to import not found or unreadable: fancy-buttons.
+Load paths:
+  D:/Dropbox/Public/For Practice/Compass_GTD_Practice/compass_gtd_practice2/sass
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/blueprint/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.0/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/html5-boilerplate-1.0.0/stylesheets
+  Compass::SpriteImporter)
+2011-10-27 15:27:55 overwrite stylesheets/screen.css 
+2011-10-27 15:28:25     error sass/screen.scss (Line 8: File to import not found or unreadable: compass/extensions/fancy-buttons.
+Load paths:
+  D:/Dropbox/Public/For Practice/Compass_GTD_Practice/compass_gtd_practice2/sass
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/blueprint/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.0/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/html5-boilerplate-1.0.0/stylesheets
+  Compass::SpriteImporter)
+2011-10-27 15:28:25 overwrite stylesheets/screen.css 
+2011-10-27 15:28:43     error sass/screen.scss (Line 8: File to import not found or unreadable: extensions/fancy-buttons.
+Load paths:
+  D:/Dropbox/Public/For Practice/Compass_GTD_Practice/compass_gtd_practice2/sass
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/blueprint/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.0/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/html5-boilerplate-1.0.0/stylesheets
+  Compass::SpriteImporter)
+2011-10-27 15:28:43 overwrite stylesheets/screen.css 
+2011-10-27 15:29:02     error sass/screen.scss (Line 8: File to import not found or unreadable: extensions/fancy-button.
+Load paths:
+  D:/Dropbox/Public/For Practice/Compass_GTD_Practice/compass_gtd_practice2/sass
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/blueprint/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.0/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/html5-boilerplate-1.0.0/stylesheets
+  Compass::SpriteImporter)
+2011-10-27 15:29:02 overwrite stylesheets/screen.css 
+2011-10-27 15:31:00     error sass/screen.scss (Line 8: File to import not found or unreadable: extensions/fancy-button.
+Load paths:
+  D:/Dropbox/Public/For Practice/Compass_GTD_Practice/compass_gtd_practice2/sass
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/blueprint/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.0/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/html5-boilerplate-1.0.0/stylesheets
+  Compass::SpriteImporter)
+2011-10-27 15:31:00 overwrite stylesheets/screen.css 
+2011-10-27 15:31:19     error sass/screen.scss (Line 8: File to import not found or unreadable: compass/fancy-buttons.
+Load paths:
+  D:/Dropbox/Public/For Practice/Compass_GTD_Practice/compass_gtd_practice2/sass
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/blueprint/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.0/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/html5-boilerplate-1.0.0/stylesheets
+  Compass::SpriteImporter)
+2011-10-27 15:31:19 overwrite stylesheets/screen.css 
+2011-10-27 15:32:01     error sass/screen.scss (Line 8: File to import not found or unreadable: compass/extensions/fancy-buttons.
+Load paths:
+  D:/Dropbox/Public/For Practice/Compass_GTD_Practice/compass_gtd_practice2/sass
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/blueprint/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.0/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/html5-boilerplate-1.0.0/stylesheets
+  Compass::SpriteImporter)
+2011-10-27 15:32:01 overwrite stylesheets/screen.css 
+2011-10-27 15:40:29 overwrite stylesheets/screen.css 
+2011-10-27 15:42:43     error sass/screen.scss (Line 8: File to import not found or unreadable: extensions/fancy-buttons.
+Load paths:
+  D:/Dropbox/Public/For Practice/Compass_GTD_Practice/compass_gtd_practice2/sass
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/blueprint/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.0/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/html5-boilerplate-1.0.0/stylesheets
+  Compass::SpriteImporter)
+2011-10-27 15:42:43 overwrite stylesheets/screen.css 
+2011-10-27 15:42:56     error sass/screen.scss (Line 8: File to import not found or unreadable: .extensions/fancy-buttons.
+Load paths:
+  D:/Dropbox/Public/For Practice/Compass_GTD_Practice/compass_gtd_practice2/sass
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/blueprint/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.0/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/html5-boilerplate-1.0.0/stylesheets
+  Compass::SpriteImporter)
+2011-10-27 15:42:56 overwrite stylesheets/screen.css 
+2011-10-27 15:49:08     error sass/screen.scss (Line 8: File to import not found or unreadable: .extensions/fancy-buttons.
+Load paths:
+  D:/Dropbox/Public/For Practice/Compass_GTD_Practice/compass_gtd_practice2/sass
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/blueprint/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.0/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/html5-boilerplate-1.0.0/stylesheets
+  Compass::SpriteImporter)
+2011-10-27 15:49:08 overwrite stylesheets/screen.css 
+2011-10-27 15:49:19     error sass/screen.scss (Line 8: File to import not found or unreadable: fancy-buttons.
+Load paths:
+  D:/Dropbox/Public/For Practice/Compass_GTD_Practice/compass_gtd_practice2/sass
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/blueprint/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.0/stylesheets
+  C:/Users/chiujw/Desktop/Personal/For Work/Framework/compass.app/lib/ruby/compass_0.11/html5-boilerplate-1.0.0/stylesheets
+  Compass::SpriteImporter)
+2011-10-27 15:49:19 overwrite stylesheets/screen.css 
+2011-10-27 15:57:10 overwrite stylesheets/screen.css 
+2011-10-27 16:06:05     error sass/screen.scss (Line 10: Invalid CSS after "..."fancy-buttons"": expected selector or at-rule, was ".hide {	")
+2011-10-27 16:06:05 overwrite stylesheets/screen.css 
+2011-10-27 16:06:31 overwrite stylesheets/screen.css 
+2011-10-27 16:08:15 overwrite stylesheets/screen.css 
+2011-10-27 16:08:41 overwrite stylesheets/screen.css 
+2011-10-27 16:13:52     error sass/screen.scss (Line 79: 12px is not a color for `lighten')
+2011-10-27 16:13:52 overwrite stylesheets/screen.css 
+2011-10-27 16:14:15 overwrite stylesheets/screen.css 
+2011-10-27 16:14:31 overwrite stylesheets/screen.css 
+2011-10-27 16:14:39     error sass/screen.scss (Line 79: 12px is not a color for `lighten')
+2011-10-27 16:14:39 overwrite stylesheets/screen.css 
+2011-10-27 16:15:06 overwrite stylesheets/screen.css 
+2011-10-27 16:16:33 overwrite stylesheets/screen.css 
+2011-10-27 16:16:40 overwrite stylesheets/screen.css 
+2011-10-27 16:17:03 overwrite stylesheets/screen.css 
+2011-10-27 16:17:21 overwrite stylesheets/screen.css 
+2011-10-27 16:17:36 overwrite stylesheets/screen.css 
+2011-10-27 16:24:11 overwrite stylesheets/screen.css 
+2011-10-27 16:24:26 overwrite stylesheets/screen.css 
+2011-10-27 16:24:57 overwrite stylesheets/screen.css 
+2011-10-27 17:24:17 overwrite stylesheets/screen.css 
+2011-10-27 17:24:32 overwrite stylesheets/screen.css 
+2011-10-27 17:24:42 overwrite stylesheets/screen.css 
+2011-10-27 17:24:51 overwrite stylesheets/screen.css 
+2011-10-27 17:24:59 overwrite stylesheets/screen.css 
+2011-10-27 17:25:05 overwrite stylesheets/screen.css 
+2011-10-27 17:25:12 overwrite stylesheets/screen.css 
+2011-10-27 17:57:33 overwrite stylesheets/screen.css 
+2011-10-27 17:57:54     error sass/screen.scss (Line 15: wrong number of arguments (0 for 1) for `linear-gradient')
+2011-10-27 17:57:54 overwrite stylesheets/screen.css 
+2011-10-27 17:58:05 overwrite stylesheets/screen.css 
+2011-10-27 17:58:24 overwrite stylesheets/screen.css 
+2011-10-27 17:58:38 overwrite stylesheets/screen.css 
+2011-10-27 18:01:44 overwrite stylesheets/screen.css 
+2011-10-27 18:02:14 identical stylesheets/screen.css 
+2011-10-27 18:02:20 overwrite stylesheets/screen.css 
+2011-10-27 18:02:38 overwrite stylesheets/screen.css 
+2011-10-27 18:02:49     error sass/screen.scss (Line 15: At least two color stops are required for a linear-gradient)
+2011-10-27 18:02:49 overwrite stylesheets/screen.css 
+2011-10-27 18:03:02 overwrite stylesheets/screen.css 
+2011-10-27 18:04:00 overwrite stylesheets/screen.css 
+2011-10-27 18:04:48 overwrite stylesheets/screen.css 
+2011-10-27 18:11:09 overwrite stylesheets/screen.css 
+2011-10-27 18:11:44 overwrite stylesheets/screen.css 
+2011-10-27 18:12:15 overwrite stylesheets/screen.css 
+2011-10-27 18:13:35 overwrite stylesheets/screen.css 
+2011-10-27 18:13:48 overwrite stylesheets/screen.css 
+2011-10-27 18:14:05 overwrite stylesheets/screen.css 
+2011-10-27 18:14:23 overwrite stylesheets/screen.css 
+2011-10-27 18:14:36 overwrite stylesheets/screen.css 
+2011-10-27 18:14:47 overwrite stylesheets/screen.css 
+2011-10-27 18:15:27 overwrite stylesheets/screen.css 
+2011-10-27 18:16:20 overwrite stylesheets/screen.css 
+2011-10-27 18:16:26 overwrite stylesheets/screen.css 
+2011-10-27 18:16:36 overwrite stylesheets/screen.css 
+2011-10-27 18:16:47 overwrite stylesheets/screen.css 
+2011-10-27 21:17:08     error sass/screen.scss (Line 8: File to import not found or unreadable: fancy-buttons.
+Load paths:
+  /Users/fredchiu/Dropbox/Public/For Practice/Compass_GTD_Practice/compass_gtd_practice2/sass
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.11/compass-0.11.5/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.11/compass-0.11.5/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/ruby/compass_0.11/html5-boilerplate-1.0.0/stylesheets
+  Compass::SpriteImporter)
+2011-10-27 21:17:08 overwrite stylesheets/screen.css 
+2011-10-27 21:22:19 overwrite stylesheets/screen.css 
+2011-10-28 15:09:06 overwrite stylesheets/screen.css 
+2011-10-28 15:14:55 overwrite stylesheets/screen.css 
+2011-10-28 15:15:05 overwrite stylesheets/screen.css 
+2011-10-28 15:15:10 overwrite stylesheets/screen.css 
+2011-10-28 15:17:29 overwrite stylesheets/screen.css 
+2011-10-31 12:03:47 overwrite stylesheets/screen.css 
+2011-10-31 16:10:05 overwrite stylesheets/screen.css 
+2011-10-31 16:10:18 overwrite stylesheets/screen.css 
+2011-11-01 10:16:12 overwrite stylesheets/screen.css 
+2011-11-01 10:24:10 overwrite stylesheets/screen.css 
+2011-11-01 10:39:47 identical stylesheets/screen.css 
+2011-11-01 10:39:54 overwrite stylesheets/screen.css 
+2011-11-01 10:40:00 overwrite stylesheets/screen.css 
+2011-11-01 11:23:15 overwrite stylesheets/screen.css 
+2011-11-01 15:39:30 overwrite stylesheets/screen.css 
+2011-11-01 15:40:33 overwrite stylesheets/screen.css 
